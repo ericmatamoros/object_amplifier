@@ -70,4 +70,7 @@ if uploaded_image:
 
         st.image(images, caption="Final Image", use_column_width=True)
 
+        os.remove("file.png")
+        os.remove("file_no_background.png")
+
         
