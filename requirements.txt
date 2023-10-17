@@ -1,0 +1,12 @@
+# Package dependencies
+pandas
+numpy
+pyyaml
+jupyter
+scikit-learn
+torchvision
+torch
+matplotlib
+scikit-image
+loguru
+streamlit
